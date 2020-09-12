@@ -6,7 +6,7 @@ from icrawler.builtin import GoogleImageCrawler
 
 #画像を保存するルートディレクトリ
 root_dir = 'pokemon/'
-#魚画像検索キーワードリスト
+#ポケモン画像検索キーワードリスト
 pokemonnames = ['ピカチュウ','ゼニガメ','ヒトカゲ','フシギダネ','カビゴン']
 
 #収集画像データ数
