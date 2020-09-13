@@ -6,8 +6,8 @@ import json
 import urllib.parse
 import urllib.request
 
-base_url = 'https://hiku-fish-model.cognitiveservices.azure.com/customvision/v3.0/Prediction/5fff1e17-d352-4717-a411-ff2ba1dc20d7/classify/iterations/Iteration1/image'
-prediction_key = 'b867ca7a5601437e9d9654534360c522'
+base_url = '<API URL>'
+prediction_key = '<Key>'
 
 poke_root_dir = 'pokemon/'
 # 検証対象のポケモン名一覧
